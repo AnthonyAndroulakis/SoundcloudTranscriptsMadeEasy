@@ -24,7 +24,7 @@ hh:mm:ss:deciseconds; transcripttext3
 .     
 .     
 ```
-  how to find track number:     
+  \*how to find track number:     
   1. go to the track on the soundcloud website (for example, https://soundcloud.com/varlam/haydn-1)   
   2. click the share button   
   3. click the Embed tab   
