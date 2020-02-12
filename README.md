@@ -1,6 +1,6 @@
 # SoundcloudTranscriptsMadeEasy
 just as the title says: Soundcloud Transcript displays made easy, in html    
-transcript, subtitles, captions, call it whatever you wish - this repo allows you to put these under a soundcloud track    
+transcript, subtitles, captions, call it whatever you wish - this repo allows you to put these under a soundcloud track (potentially for a podcast)    
 DEMO CODE: https://repl.it/@AnthonyAndroula/transferrablesndcld     
 DEMO PAGE: https://transferrablesndcld.anthonyandroula.repl.co        
 <img src='https://github.com/AnthonyAndroulakis/SoundcloudTranscriptsMadeEasy/blob/master/examples/screenshotpic.png' alt='screenshot'>     
