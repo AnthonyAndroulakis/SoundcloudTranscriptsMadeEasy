@@ -25,12 +25,12 @@ hh:mm:ss:deciseconds; transcripttext3
 .
 ```
 how to find track number:     
-i) go to the track on the soundcloud website (for example, https://soundcloud.com/varlam/haydn-1)
-ii) click the share button
-iii) click the Embed tab
-iv) copy the code in the code textbox
-v) now analyze this text: you will find a part that looks a bit like api.soundcloud.com/tracks/139528931 (the last number is your track number)   
-after you've created your tracknum.html file, upload it onto your website
+i) go to the track on the soundcloud website (for example, https://soundcloud.com/varlam/haydn-1)   
+ii) click the share button   
+iii) click the Embed tab   
+iv) copy the code in the code textbox   
+v) now analyze this text: you will find a part that looks a bit like api.soundcloud.com/tracks/139528931 (the last number is your track number)       
+after you've created your tracknum.html file, upload it onto your website   
 3) upload <a href="https://github.com/AnthonyAndroulakis/SoundcloudTranscriptsMadeEasy/blob/master/sndcldscript.js">sndcldscript.js</a> and <a href="https://github.com/AnthonyAndroulakis/SoundcloudTranscriptsMadeEasy/blob/master/sndcldstyle.css">sndcldstyle.css</a> onto your website (__must be in same directory as tracknum.html file__)
 4) okay so the fun part: wherever you want to place a transcript file, add the following line (change according to your tracknumber): `<iframe src="tracknumber.html" width="100%" height="444px" frameborder="0"></iframe>`
 4) 
