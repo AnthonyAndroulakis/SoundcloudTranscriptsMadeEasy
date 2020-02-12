@@ -1,0 +1,45 @@
+.wavesurfer-transcript{
+  width: 600px;
+  height: 200px;
+  font-size: 17px;
+  position: relative;
+  font-family: Arial, sans-serif;
+  overflow: auto;
+}
+
+.wavesurfer-marker:hover {
+  cursor: pointer;
+  background-color: #c9f3f3;
+}
+
+.wavesurfer-marker-current {
+  background-color: #e2fbfb;
+}
+
+.btntoggle {
+  font-size: 20px;
+  font-family:arial, sans-serif;
+  display:block;
+}
+
+.tablinks {
+  font-size: 20px;
+  font-family:arial, sans-serif;
+  border:none;
+}
+
+#btndetails {
+  font-size: 15px;
+  border-radius: 12px;
+  font-family:arial, sans-serif;
+  display:block;
+}
+
+hr {
+  color:lightgrey;
+  width:600px;
+}
+
+.tabcontent {
+  display: none;
+}
