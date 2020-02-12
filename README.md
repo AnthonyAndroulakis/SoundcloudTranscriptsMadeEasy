@@ -30,7 +30,11 @@ hh:mm:ss:deciseconds; transcripttext3
   -----3. click the Embed tab   
   -----4. copy the code in the code textbox   
   -----5. now analyze this text: you will find a part that looks a bit like api.soundcloud.com/tracks/139528931 (the last number is your track number)       
-  
 after you've created your tracknum.html file, upload it onto your website   
 3) upload <a href="https://github.com/AnthonyAndroulakis/SoundcloudTranscriptsMadeEasy/blob/master/sndcldscript.js">sndcldscript.js</a> and <a href="https://github.com/AnthonyAndroulakis/SoundcloudTranscriptsMadeEasy/blob/master/sndcldstyle.css">sndcldstyle.css</a> onto your website (__must be in same directory as tracknum.html file__)    
 4) okay so the fun part: wherever you want to place a transcript file, add the following line (change according to your tracknumber): `<iframe src="tracknumber.html" width="100%" height="444px" frameborder="0"></iframe>`
+
+# Code formatting specifics
+- How multiple soundcloud tracks are handled: soundcloud tracks and transcripts are put into iframes in order to minimize class, variable, and function conflicts. This also makes the code simpler to look at. However, iframes do have some downsides - I'd recommend doing a bit of iframe research before implementing my code directly.       
+How transcripts are displayed: I tried to make something inbetween TED's transcript and YouTube's transcript. I ended up making an invisible html table to put the time values and transcript text.      
+- this code is changable. I've added a repl.it page so you can play around with the code and change it as you wish
