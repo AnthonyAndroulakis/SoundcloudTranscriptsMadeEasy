@@ -2,7 +2,7 @@
 just as the title says: Soundcloud Transcript displays made easy, in html    
 DEMO CODE: https://repl.it/@AnthonyAndroula/transferrablesndcld     
 DEMO PAGE: https://transferrablesndcld.anthonyandroula.repl.co        
-<img src='https://github.com/AnthonyAndroulakis/SoundcloudTranscriptsMadeEasy/blob/master/examples/screenshot.png' alt='screenshot'>     
+<img src='https://github.com/AnthonyAndroulakis/SoundcloudTranscriptsMadeEasy/blob/master/examples/screenshotpic.png' alt='screenshot'>     
 
 # Motivation
 While thinking of how to improve the display of a "soundcloud podcast", I noticed the cool-looking scrolling transcripts that YouTube, Khan Academy, and TED used. Such a design on a soundcloud track would (1) increase comprehension, (2) allow the audience to look at which words come next, and (3) allow the audience to read the transcript as they wish. So I set my eyes on achieving this. 
