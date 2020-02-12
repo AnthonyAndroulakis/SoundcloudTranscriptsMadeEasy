@@ -13,17 +13,17 @@ When I started this project, I knew next to nothing about html, css, and js. I s
 2) create your transcript.csv file (an example can be found here: 
 <a href="https://github.com/AnthonyAndroulakis/SoundcloudTranscriptsMadeEasy/blob/master/examples/transcript.en.csv">transcript.en.csv</a>)   
 The general format of a transcript csv file is
-```
-TRACK; tracknumber
-DESCRIPTION; descriptiongoeshere
-LENGTH; hh:mm:ss:deciseconds
-hh:mm:ss:deciseconds; transcripttext1
-hh:mm:ss:deciseconds; transcripttext2
-hh:mm:ss:deciseconds; transcripttext3
-.
-.
-.
-```
+`
+TRACK; tracknumber    
+DESCRIPTION; descriptiongoeshere    
+LENGTH; hh:mm:ss:deciseconds    
+hh:mm:ss:deciseconds; transcripttext1    
+hh:mm:ss:deciseconds; transcripttext2    
+hh:mm:ss:deciseconds; transcripttext3    
+.     
+.     
+.     
+`
 how to find track number:     
 1. go to the track on the soundcloud website (for example, https://soundcloud.com/varlam/haydn-1)   
 2. click the share button   
@@ -33,4 +33,3 @@ how to find track number:
 after you've created your tracknum.html file, upload it onto your website   
 3) upload <a href="https://github.com/AnthonyAndroulakis/SoundcloudTranscriptsMadeEasy/blob/master/sndcldscript.js">sndcldscript.js</a> and <a href="https://github.com/AnthonyAndroulakis/SoundcloudTranscriptsMadeEasy/blob/master/sndcldstyle.css">sndcldstyle.css</a> onto your website (__must be in same directory as tracknum.html file__)
 4) okay so the fun part: wherever you want to place a transcript file, add the following line (change according to your tracknumber): `<iframe src="tracknumber.html" width="100%" height="444px" frameborder="0"></iframe>`
-4) 
