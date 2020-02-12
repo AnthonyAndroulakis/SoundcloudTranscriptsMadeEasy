@@ -41,3 +41,6 @@ after you've created your tracknum.html file, upload it onto your website
 I'd recommend doing a bit of iframe research before implementing my code directly.       
 - How transcripts are displayed: I tried to make something inbetween TED's transcript and YouTube's transcript. I ended up making an invisible html table to put the time values and transcript text.      
 - this code is changable. I've added a repl.it page so you can play around with the code and change it as you wish
+
+# License
+MIT License: https://github.com/AnthonyAndroulakis/SoundcloudTranscriptsMadeEasy/blob/master/LICENSE
