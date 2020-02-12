@@ -10,7 +10,7 @@ While thinking of how to improve the display of a "soundcloud podcast", I notice
 # Credit where credit is due
 When I started this project, I knew next to nothing about html, css, and js. I started by stumbling across X-Raym codepen titled "SoundCloud Widget API - Subtitles and Interactive Transcripts" (https://codepen.io/X-Raym/pen/QdwEgJ). The main idea of my code is in his/her code. The bulk of what I did was change the design and presentation of this code to make it easier to implement.
 
-# Quickstart (just tell me how to use this already)
+# Quickstart (just tell me how to use this)
 1) get python (https://www.python.org/)
 2) create your transcript.csv file (an example can be found here: 
 <a href="https://github.com/AnthonyAndroulakis/SoundcloudTranscriptsMadeEasy/blob/master/examples/transcript.en.csv">transcript.en.csv</a>)   
