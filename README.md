@@ -13,7 +13,7 @@ When I started this project, I knew next to nothing about html, css, and js. I s
 2) create your transcript.csv file (an example can be found here: 
 <a href="https://github.com/AnthonyAndroulakis/SoundcloudTranscriptsMadeEasy/blob/master/examples/transcript.en.csv">transcript.en.csv</a>)   
 The general format of a transcript csv file is
-`
+```
 TRACK; tracknumber    
 DESCRIPTION; descriptiongoeshere    
 LENGTH; hh:mm:ss:deciseconds    
@@ -23,7 +23,7 @@ hh:mm:ss:deciseconds; transcripttext3
 .     
 .     
 .     
-`
+```
 how to find track number:     
 1. go to the track on the soundcloud website (for example, https://soundcloud.com/varlam/haydn-1)   
 2. click the share button   
