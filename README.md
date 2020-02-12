@@ -1,6 +1,7 @@
 # SoundcloudTranscriptsMadeEasy
 just as the title says: Soundcloud Transcript displays made easy, in html    
-https://repl.it/@AnthonyAndroula/transferrablesndcld       
+DEMO CODE: https://repl.it/@AnthonyAndroula/transferrablesndcld     
+DEMO PAGE: https://transferrablesndcld.anthonyandroula.repl.co        
 <img src='https://github.com/AnthonyAndroulakis/SoundcloudTranscriptsMadeEasy/blob/master/examples/screenshot.png' alt='screenshot'>     
 
 # Motivation
