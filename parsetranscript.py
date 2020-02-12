@@ -1,7 +1,7 @@
 #parse csv transcript file into html
 import sys
 
-def run(filename): #example input: captions.en.csv
+def run(filename): #example input: transcript.en.csv
 	#first parse csv file for relevant data
 	lines = open(filename).read().split('\n')
 	tracknum = lines[0].split(';')[1].strip() #make tracknum id name in html and js
