@@ -39,6 +39,7 @@ after you've created your tracknum.html file, upload it onto your website
 4) okay so the fun part: wherever you want to place a transcript file, add the following line (change according to your tracknumber): `<iframe src="tracknumber.html" width="100%" height="444px" frameborder="0"></iframe>`
 
 # Code formatting specifics
+- note: do not place semicolons(;) in your transcripts. This will make parsetranscript.py mess up.
 - How multiple soundcloud tracks are handled: soundcloud tracks and transcripts are put into iframes in order to minimize class, variable, and function conflicts. This also makes the code simpler to look at. However, iframes do have some downsides
 I'd recommend doing a bit of iframe research before implementing my code directly.       
 - How transcripts are displayed: I tried to make something inbetween TED's transcript and YouTube's transcript. I ended up making an invisible html table to put the time values and transcript text.      
